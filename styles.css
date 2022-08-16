@@ -10,3 +10,19 @@ p.mortal {
     text-align: center;
     font-size: 20px;
 }
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+
+select {
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+  }
+
+  form {
+    max-width: 500px;
+    margin: auto;
+  }
