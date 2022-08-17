@@ -49,6 +49,7 @@ fieldset {
   nav {
     display: flex ;
     justify-content: space-evenly;
+    color: rgb(242, 255, 0);
   }
 
   article {
